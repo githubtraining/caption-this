@@ -55,6 +55,6 @@
 
 After you have completed this course, you are probably wondering where to go from here:
 
-- [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
+- [GitHub Skills](https://skills.github.com/): self-paced courses powered by GitHub Actions.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
