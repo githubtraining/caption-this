@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide caption saloni Gupta
 title: "Welcome to our slide deck!"
 ---
 
